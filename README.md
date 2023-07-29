@@ -28,7 +28,7 @@ sh scripts_ssl/vdfd.sh
 
 #### Prepare Dataset
 
-For 5-Dataset, you can download this dataset at [here](https://drive.google.com/file/d/1pyg-f7qDi2Elp5EFjE3u1djr5uXMPxYz/view?usp=sharing).
+For 5-Dataset, you can download this dataset at [here](https://drive.google.com/file/d/1PeXFhrp4wgxLjlODL1p1VNgf4YY9coLu/view?usp=sharing).
 
 ### Class-incremental setting
 
