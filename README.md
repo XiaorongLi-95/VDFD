@@ -59,7 +59,7 @@ sh scripts/vdfd.sh
 
 ### Task-incremental setting & Class-incremental setting
 
-Python (3.7) 
+Python (3.6) 
 
 PyTorch (1.8.0) 
 
